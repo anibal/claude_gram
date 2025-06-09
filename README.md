@@ -1,4 +1,4 @@
-# ClaudeGram - Telegram Webhook Bot with Log Monitoring
+# ClaudeGram
 
 A monitor for Claude Code sessions based on starting `claude` in the terminal using the `script` command, that sends the output to a log file and monitors it for calls like "Do you want to proceed?", sending Telegram alerts with the context of the following lines.
 
